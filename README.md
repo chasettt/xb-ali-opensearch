@@ -12,7 +12,7 @@ Prerequisites
 
 How to start
 ---------------------------------
-1. Downlaod the PHP SDK zip and unzip it.
+1. Download the PHP SDK zip and unzip it.
 2. Move the SDK to your project.
 3. View the demo directory, there are some samples likes app control, document push, app search, suggest search and etc.
 
