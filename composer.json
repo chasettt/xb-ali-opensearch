@@ -10,7 +10,7 @@
             "homepage": "http://www.aliyun.com"
         }
     ],
-    "version": "v3.3.0",
+    "version": "1.0.2",
     "require": {
 		"php": ">=5.3"
 	},
